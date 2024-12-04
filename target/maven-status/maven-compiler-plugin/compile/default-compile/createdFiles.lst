@@ -1,0 +1,16 @@
+Services\DescontoChainService.class
+Logger\LogJSON.class
+CalculadoraDeDescontoChain\IDescontoEntregaChain.class
+CalculadoraDeDescontoChain\DescontoTipoClienteChain.class
+Logger\ILog.class
+Services\CalculadoraDeDescontoService.class
+Model\Pedido.class
+Model\Cliente.class
+CalculadoraDeDescontoChain\DescontoBairroChain.class
+Model\CupomDescontoEntrega.class
+Logger\LogXML.class
+Services\UsuarioLogadoService.class
+CalculadoraDeDescontoChain\DescontoValorPedidoChain.class
+CalculadoraDeDescontoChain\DescontoTipoItemChain.class
+Main\Main.class
+Model\Item.class
